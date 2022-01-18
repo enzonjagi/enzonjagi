@@ -1,5 +1,6 @@
 # Hi there 👋 , I'm Njagi. 
 <img src="quantum.jpg">
+
 ### A Full Stack Developer(Flutter, Python, MySQL, Firebase, Nginx, and more Linux stuff)
 
 
