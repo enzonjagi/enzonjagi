@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://twitter.com/_chief__omar and https://www.linkedin.com/in/a-njagi-ndungo-677843110/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I find it hard to believe that I'm a nerd now(used to be a funny guy --> barely)
--->
+
