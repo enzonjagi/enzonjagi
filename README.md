@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Njagi. 
-<img src="quantum.jpg">
+<img src="cover photo.jpeg">
 
 ### A Full Stack Developer
 
