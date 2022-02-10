@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Njagi. 
 <img src="cover photo.jpeg">
 
-### A Full Stack Developer
+### A Full Stack Developer - Maybe
 
 - 🔭 I’m currently working on completing a one year Full Stack Software Engineering course (C, Python, Linux, JS, HTML/CSS and more)
 - 🌱 I’m currently learning some Quantum Computing Concepts alongside the above-stated course
