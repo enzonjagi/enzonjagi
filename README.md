@@ -3,14 +3,11 @@
 
 ### A Full Stack Developer - Maybe
 
-- 🔭 I’m currently working on completing [a one year Full Stack Software Engineering course](https://www.alxafrica.com/software-engineering-2022/) (C, Python, Linux, JS, HTML/CSS and more)
-- 🌱 I’m currently learning some [Quantum Computing Concepts](https://qiskit.org/textbook-beta/course/introduction-course/) alongside the above-stated course
-- 👯 I’m looking to collaborate on Flutterfire Projects for Android
+- 🌱 I’m currently learning some [Quantum Computing Concepts](https://qiskit.org/textbook-beta/course/introduction-course/) alongside the above-stated course and learning Unity, Flutter, and Machine learning with Python
 - 🤔 I’m looking for help with Unity3D and all the above
 - 💬 Ask me about Linux, Python, and Nginx
-- 📫 How to reach me: [Twitter](https://twitter.com/_chief__omar) and [LinkedIn](https://www.linkedin.com/in/a-njagi-ndungo-677843110/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I find it hard to believe that I'm a nerd now(used to be a funny guy --> barely)
+- 📫 How to reach me: [Twitter](https://twitter.com/njagi_ndungo) and [LinkedIn](https://www.linkedin.com/in/a-njagi-ndungo/)
+- ⚡ Fun fact: I find it hard to believe that I'm a nerd now(used to be a fun guy --> barely)
 
 ![NJagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzonjagi&show_icons=true&theme=radical)
 
