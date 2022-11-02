@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning some [Quantum Computing Concepts](https://qiskit.org/textbook-beta/course/introduction-course/) alongside bug bounty, and Machine learning with Python
 - 🤔 I’m looking for help with learning Pentesting and Bug Bounty
-- 💬 Ask me about Linx and Python
+- 💬 Ask me about Linux and Python
 - 📫 How to reach me: [Twitter](https://twitter.com/njagi_ndungo) and [LinkedIn](https://www.linkedin.com/in/a-njagi-ndungo/)
 - ⚡ Fun fact: I find it hard to believe that I'm a nerd now(used to be a fun guy --> barely)
 
