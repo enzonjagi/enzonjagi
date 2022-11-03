@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Njagi. 
+# Hi there 👋 , the name is Njagi... Njagi Ndungo.
 
 
 ### A Mobile software engineer, cybersec student(bug bounty and pen testing), and Machine Learning hobby-ist of sorts.
