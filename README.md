@@ -1,7 +1,7 @@
 # Hi there 👋 , I'm Njagi. 
 
 
-### A Full Stack Developer - Maybe
+### A Mobile software engineer, cybersec student(bug bounty and pen testing), and Machine Learning hobby-ist of sorts.
 
 - 🌱 I’m currently learning some [Quantum Computing Concepts](https://qiskit.org/textbook-beta/course/introduction-course/) alongside bug bounty, and Machine learning with Python
 - 🤔 I’m looking for help with learning Pentesting and Bug Bounty
