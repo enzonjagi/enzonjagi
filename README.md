@@ -1,7 +1,7 @@
 # Hi there 👋 , the name is Njagi... Njagi Ndungo.
 
 
-### A Software engineer, cybersec student(bug bounty and pen testing), and Machine Learning hobby-ist of sorts.
+### A Software engineer of sorts.
 
 - 🌱 I’m currently learning some [Quantum Computing Concepts](https://qiskit.org/textbook-beta/course/introduction-course/) alongside bug bounty, and Machine learning with Python
 - 🤔 I’m looking for help with learning Pentesting and Bug Bounty
