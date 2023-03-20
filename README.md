@@ -3,11 +3,10 @@
 
 ### A Software engineer of sorts.
 
-- 🌱 I’m currently learning some [Quantum Computing Concepts](https://qiskit.org/textbook-beta/course/introduction-course/) alongside bug bounty, and Machine learning with Python
+- 🌱 I’m currently learning some [Quantum Computing Concepts](https://qiskit.org/textbook-beta/course/introduction-course/) alongside cyber security
 - 🤔 I’m looking for help with learning Pentesting and Bug Bounty
-- 💬 Ask me about Linux and Python
-- 📫 How to reach me: [Twitter](https://twitter.com/njagi_ndungo) and [LinkedIn](https://www.linkedin.com/in/a-njagi-ndungo/)
-- ⚡ Fun fact: I find it hard to believe that I'm a nerd now(used to be a fun guy --> barely)
+- 💬 Ask me about stuff you'd like to know in tech.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/a-njagi-ndungo/)
 
 ![NJagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzonjagi&show_icons=true&theme=radical)
 
