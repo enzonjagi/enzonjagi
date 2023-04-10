@@ -1,4 +1,4 @@
-# Salaam 👋 , the name is Njagi... Njagi Ndungo. alias chief_omar
+# Salaam 👋 , the name is Njagi... Njagi Ndungo. alias chief__omar
 
 
 ### A Software engineer of sorts.
