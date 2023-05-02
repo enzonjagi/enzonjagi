@@ -4,8 +4,9 @@
 ### A Software engineer of sorts.
 
 - 🌱 I’m currently learning some [Quantum Computing Concepts](https://qiskit.org/textbook-beta/course/introduction-course/) alongside cyber security
-- 🤔 I’m looking for help with learning Pentesting and Bug Bounty
-- 💬 Ask me about stuff you'd like to know in tech.
+- - 🌱 I’m currently learning some [Django Concepts from Real Python](https://reapython.com/) alongside cyber security on [TryHackme](https://tryhackme.com/)
+- 🤔 I’m looking for help with learning Python and Django
+- 💬 I like to talk about [Unity 3D](https://unity.com/) stuff.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/a-njagi-ndungo/)
 
 ![NJagi's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzonjagi&show_icons=true&theme=radical)
