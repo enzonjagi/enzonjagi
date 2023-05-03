@@ -1,7 +1,7 @@
 # Salaam 👋 , the name is Njagi... Njagi Ndungo. alias chief__omar
 
 
-### A Software engineer of sorts.
+### A Software engineer: Backend - Python/Django
 
 - 🌱 I’m currently learning some [Quantum Computing Concepts](https://qiskit.org/textbook-beta/course/introduction-course/) alongside cyber security
 - - 🌱 I’m currently learning some [Django Concepts from Real Python](https://reapython.com/) alongside cyber security on [TryHackme](https://tryhackme.com/)
