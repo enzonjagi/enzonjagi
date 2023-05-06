@@ -1,4 +1,4 @@
-# Salaam 👋 , the name is Njagi Ndungo. alias [The Chief - Omar](https://twitter.com/chief__omar)
+# ASalaam Aleykum! 👋 , my name is Omar | Njagi Ndungo. alias [The Chief - Omar](https://twitter.com/chief__omar)
 
 
 ### A Software engineer: Backend - Python/Django
