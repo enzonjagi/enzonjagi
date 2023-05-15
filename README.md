@@ -1,7 +1,7 @@
 # Asalaam Aleykum! 👋 , my name is Omar | Njagi Ndungo. alias [The Chief - Omar](https://twitter.com/chief__omar)
 
 
-### A Software engineer: Backend - Python/Django && Mobile - Flutter
+### A Software engineer: Backend - Python/Django && Occasionally --> Mobile - Flutter
 
 - 🌱 I’m currently learning some [Django Concepts from Real Python](https://reapython.com/) alongside cyber security on [TryHackme](https://tryhackme.com/)
 - 🤔 I’m looking for help with learning Python and Django
