@@ -1,5 +1,6 @@
-# Asalaam Aleykum! 👋 , my name is Omar | Njagi Ndungo. alias [The Chief - Omar](https://twitter.com/chief__omar)
+# Asalaam Aleykum! 👋 , my name is A. Njagi Ndungo | [The Chief - Omar](https://twitter.com/chief__omar)
 
+![banner](banners/1584x396%20LInkedIn%20Banner%20V2.jpg)
 
 ### A Software engineer: Backend - Python/Django && Occasionally --> Mobile - Flutter
 
