@@ -2,7 +2,7 @@
 
 ![banner](banners/1584x396%20LInkedIn%20Banner%20V2.jpg)
 
-### A Software engineer: Backend - Python/Django && Occasionally --> Mobile - Flutter
+### A Graduate Software engineer: Backend - Python/Django Developer && CrossPlatform/Mobile Developer - Flutter
 
 - 🌱 I’m currently learning some [Django Concepts from Real Python](https://realpython.com/) alongside cyber security on [TryHackme](https://tryhackme.com/)
 - 🤔 I’m looking for help with learning Python and Django
