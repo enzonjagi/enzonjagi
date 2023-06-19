@@ -1,4 +1,4 @@
-# Asalaam Aleykum! 👋 , my name is A. Njagi Ndungo
+# Asalaam Aleykum! 👋 , my name is Njagi Ndungo
 
 ![banner](banners/1584x396%20LInkedIn%20Banner%20V2.jpg)
 
