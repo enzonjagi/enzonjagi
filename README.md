@@ -1,4 +1,4 @@
-# Asalaam Aleykum! 👋 , my name is A. Njagi Ndungo | [The Chief - Omar](https://twitter.com/chief__omar)
+# Asalaam Aleykum! 👋 , my name is A. Njagi Ndungo
 
 ![banner](banners/1584x396%20LInkedIn%20Banner%20V2.jpg)
 
