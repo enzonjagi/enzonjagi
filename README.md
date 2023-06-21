@@ -2,11 +2,11 @@
 
 ![banner](banners/1584x396%20LInkedIn%20Banner%20V2.jpg)
 
-### A Graduate Software engineer: Backend - Python/Django Developer & CrossPlatform Developer - Flutter
+### Software engineer: Flutter and Python
 
-- 🌱 I’m currently learning some [Django Concepts from Real Python](https://realpython.com/) alongside cyber security on [TryHackme](https://tryhackme.com/)
-- 🤔 I’m looking for help with learning Python and Django
-- 💬 I like to write about [every single thing I'm learning](https://chiefomar.hashnode.dev)
+- 🌱 I’m currently learning [Flutter](https://flutter.dev/), [Python](https://realpython.com/), and cyber security on [TryHackme](https://tryhackme.com/)
+- 🤔 I’m looking for help with Flutter and Python(Scriptig, ML, & Django).
+- 💬 I like to write about [things I learn](https://chiefomar.hashnode.dev)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/a-njagi-ndungo/)
 
 
