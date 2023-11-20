@@ -42,7 +42,7 @@
 cc
 #### Login/Auth Samples
 
-![Login](CompleteLoginProcess.png)
+![Login](assets/images/CompleteLoginProcess.png)
 
 #### Splash Screen Samples
 
